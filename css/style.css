@@ -1,0 +1,183 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,500;1,100&display=swap');
+
+h1 {
+        color: #3C2313;
+        font-family: 'Roboto', sans-serif;
+        font-style: normal;
+        font-weight: 400;
+        font-size: 30px;
+        line-height: 35px;
+        background-color: white;  
+        border-radius: 10px;
+        padding: 10px ;
+    }
+h2{
+        font-family: 'Roboto', sans-serif;
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 19px;
+        color: #3C2313;
+        text-align: center;
+    }
+h3{
+        font-family: 'Roboto';
+        font-style: normal;
+        font-size: 40px;
+        color: #3C2313;
+        text-align: center;
+}   
+
+
+h6{
+        background-color: black;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        padding-right: 50px;
+        padding-left: 20px;
+        color: white;
+}
+.nav1{
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+        background-color: #F0A83E;
+  }
+
+.img{
+   
+         width: 200px;
+}
+i{
+        float: right;
+        display: block;
+        color: white;
+        text-align: right;
+        padding: 14px 16px;
+        text-decoration: none;
+  }
+
+.li{
+   
+         float: right;
+}
+
+
+
+.a{
+        display: block;
+        color: white;
+        text-align: center;
+        padding: 14px 16px;
+        text-decoration: none;
+  }
+
+  .banner{
+        background-image: url(../img/banner.png);
+        background-repeat: no-repeat;
+        background-position:  center center;
+        background-size: cover;
+        padding: 280px 300px
+ 
+  }
+
+  .sectionBanner {
+        float: right;
+        padding: 150px;
+  }
+
+  .contenedorH1{
+        position: absolute;
+        top: 350px;
+        right: 130px;        
+  }
+  .buttonBanner{
+        position: absolute;
+        color: white;
+        background-color: #F0A83E;
+        border: none;
+        padding: 15px 32px;
+        float: center;
+        font-size: 16px;
+        border-radius: 5px;
+        top: 500px;
+        right: 210px; 
+
+  }
+
+ .nav2 {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+        color:black;
+ }
+ .li2{
+   
+    float: center;
+}
+
+
+
+.a2{
+   display: block;
+   color: black;
+   text-align: center;
+   padding: 14px 16px;
+   text-decoration: none;
+} 
+.patita{
+    padding-top: 60px;
+    padding-bottom: 10px;
+    text-align: center;
+}
+
+
+.costo{
+      color: orange;
+}
+
+form{
+     text-align: center;
+}
+.formInput{
+      background: #3C2313;
+      border-radius: 15px;
+      color: white;
+      padding: 12px 150px;
+      border: none;
+     
+}
+.button1{
+      background-color: gray;
+      border-radius: 5px;
+      color: white;
+      padding: 5px 20px;
+      border: none;
+}
+
+.button2{
+      background-color: orange;
+      border-radius: 5px;
+      color: white;
+      padding: 5px 20px;
+      border: none;
+}
+ 
+.suscribete{
+      background-color: orange;
+      color: white;
+}
+
+.datos{
+      background: #3C2313;
+      color:white;
+      
+}
+footer{
+      background-color: black;
+      color: white;
+      text-align: center;
+}
